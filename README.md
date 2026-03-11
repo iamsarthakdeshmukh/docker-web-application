@@ -135,63 +135,64 @@ Push the project files and documentation to GitHub.
 
 ---
 
-# Project Screenshots
+## Project Screenshots
 
 ### 1. AWS Console Dashboard
 
-![AWS](screenshots/1-AWS Console dashboard.png)
+![AWS](screenshots/1-AWS%20Console%20dashboard.png)
 
 ### 2. EC2 Instance Running
 
-![EC2](screenshots/2-EC2 instance running.png)
+![EC2](screenshots/2-EC2%20instance%20running.png)
 
 ### 3. PowerShell Connected to EC2
 
-![PowerShell](screenshots/3-PowerShell connected to EC2.png)
+![PowerShell](screenshots/3-PowerShell%20connected%20to%20EC2.png)
 
 ### 4. Linux Update Command
 
-![Linux](screenshots/4-Linux update command running.png)
+![Linux](screenshots/4-Linux%20update%20command%20running.png)
 
 ### 5. Project Folder Creation
 
-![Folder](screenshots/5-Folder creation command.png)
+![Folder](screenshots/5-Folder%20creation%20command.png)
 
 ### 6. index.html File Created
 
-![HTML](screenshots/6-index.html file opened in nano editor.png)
+![HTML](screenshots/6-index.html%20file%20opened%20in%20nano%20editor.png)
 
 ### 7. Dockerfile Created
 
-![Dockerfile](screenshots/7-Dockerfile open in terminal.png)
+![Dockerfile](screenshots/7-Dockerfile%20open%20in%20terminal.png)
 
-### 8. Docker Build Process
+### 8. Docker Image List
 
-![Docker Build](screenshots/8-Docker build process.png)
+![Docker Images](screenshots/8-Docker%20image%20in%20list.png)
 
-### 9. Docker Image List
+### 9. Docker Build Process
 
-![Docker Image](screenshots/9-Docker image in list.png)
+![Docker Build](screenshots/9-Docker%20build%20process.png)
 
-### 10. Running Docker Container
+### 10. Running Container
 
-![Container](screenshots/10-Running container.png)
+![Container](screenshots/10-Running%20container.png)
 
 ### 11. Website Running in Browser
 
-![Website](screenshots/11-Website running in browser.png)
+![Website](screenshots/11-Website%20running%20in%20browser.png)
 
 ### 12. Docker Push Successful
 
-![DockerHub](screenshots/12-Docker push successful.png)
+![DockerHub](screenshots/12-Docker%20push%20successful.png)
 
 ### 13. GitHub Repository Page
 
-![GitHub](screenshots/13-GitHub repository page.png)
+![GitHub](screenshots/13-GitHub%20repository%20page.png)
 
 ### 14. Project Uploaded on GitHub
 
-![Upload](screenshots/14-Project uploaded on GitHub.png)
+![Upload](screenshots/14-Project%20uploaded%20on%20GitHub.png)
+
 
 ---
 
